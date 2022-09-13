@@ -1,3 +1,14 @@
+
+Frontend Mentor | Advice Generator with React
+
+Live URL 💻 : https://erentasci-react-fem-advice-generator.vercel.app/
+
+Frontend Mentor Challenge URL: https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db
+
+```
+- React 
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
